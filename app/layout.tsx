@@ -7,9 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ImageGen AI - Modern Image Generator",
-  description: "Transform your ideas into stunning visuals with our AI-powered image generation tool",
-    generator: 'v0.dev'
+  title: "ImageGen AI — современный генератор изображений",
+  description: "Превращайте свои идеи в потрясающие визуальные эффекты с помощью нашего инструмента генерации изображений на базе искусственного интеллекта.",
 }
 
 export default function RootLayout({
